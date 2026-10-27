@@ -1,0 +1,9 @@
+{
+  "slug": "ai-rising",
+  "name": "ai-rising",
+  "version": "1.5",
+  "source": "aitop.news",
+  "sourceUrl": "https://aitop.news/skills/ai-rising/",
+  "installId": "k7m2xq9w4n8t",
+  "note": "AITOP skill 矩阵卫星入口（由 scripts/build-skills.py 生成，手工安装到本地）。接口 GET /api/public/rising，输出关键词热度榜。与同安装的 aitop-skill 共享 installId。"
+}
